@@ -30,17 +30,3 @@ include; if there are unrelated changes, add individual file paths instead.
 To verify, open the repository on GitHub, select `main`, and browse to the
 dated folder.
 
-## Move existing date-branch work to main
-
-To bring the existing `2026-10-13` branch's daily folder into `main`, first
-commit or stash any local changes you want to keep. Then merge and push:
-
-```powershell
-git switch main
-git pull --ff-only origin main
-git merge --no-ff 2026-10-13 -m "Add SQL practice for 2026-10-13"
-git push origin main
-```
-
-This keeps the daily files on `main`; future daily work can be added there
-without creating another date branch.
