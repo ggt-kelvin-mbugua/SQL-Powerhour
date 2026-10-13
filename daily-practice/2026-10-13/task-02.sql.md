@@ -1,22 +1,24 @@
-﻿# SQL Practice â€” Task 02
+﻿# SQL Practice ” Task 02
 
 - **Date:** 2026-10-13
-- **Question Name:**
-- **Link:**
-- **Difficulty:** Easy / Medium / Hard
+- **Question Name:** Weather Observation Station 6
+- **Link:**  https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
+- **Difficulty:** Medium
 
 ## Intuition
 
-Explain how you interpreted the question and developed your approach.
-
+Using Select distict to get unique cities
+Using Like and '%' for the exact starting vowels
 ## Solution
 
-``sql
--- Write your SQL solution here
+```sql
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY  LIKE 'a%'
+OR CITY LIKE 'e%'
+OR CITY LIKE 'i%'
+OR CITY LIKE '0%'
+OR CITY LIKE 'u%';
+```
 
-``
 
-## Notes
-
-- **Concepts learned:**
-- **Improvements:**
