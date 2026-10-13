@@ -6,7 +6,6 @@ param(
 
 $ErrorActionPreference = "Stop"
 $Date = Get-Date -Format "yyyy-MM-dd"
-$Branch = $Date
 
 function Invoke-Git {
     & git @args
@@ -41,23 +40,11 @@ try {
     Invoke-Git fetch origin
     Invoke-Git pull --ff-only origin main
 
-    # Do not overwrite an existing daily branch.
-    & git show-ref --verify --quiet "refs/heads/$Branch"
-    $localExists = ($LASTEXITCODE -eq 0)
-
-    $remoteRefs = & git ls-remote --heads origin $Branch
-    if ($LASTEXITCODE -gt 2) {
-        throw "Unable to check remote branches."
-    }
-    $remoteExists = [bool]$remoteRefs
-
-    if ($localExists -or $remoteExists) {
-        throw "Branch $Branch already exists. No changes made."
-    }
-
-    Invoke-Git switch -c $Branch
-
     $folder = "daily-practice/$Date"
+    if (Test-Path -LiteralPath $folder) {
+        throw "Practice folder already exists: $folder. No files were changed."
+    }
+
     New-Item -ItemType Directory -Path $folder -Force |
         Out-Null
 
@@ -95,9 +82,9 @@ Explain how you interpreted the question and developed your approach.
 
     Invoke-Git add $folder
     Invoke-Git commit -m "Add SQL practice tasks for $Date"
-    Invoke-Git push -u origin $Branch
+    Invoke-Git push origin main
 
-    Write-Host "SUCCESS: Branch $Branch created and pushed." `
+    Write-Host "SUCCESS: Daily practice for $Date pushed to main." `
         -ForegroundColor Green
 }
 catch {
