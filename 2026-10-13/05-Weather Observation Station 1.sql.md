@@ -1,7 +1,7 @@
 ﻿# SQL Practice” Task 05
 
 - **Date:** 2026-10-13
-- **Question Name:** Weather Observation Station 1
+- **Question Name:** Japanese Cities Name
 - **Link:** https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
 - **Difficulty:** Easy
 

@@ -1,40 +1,18 @@
-# SQL-Powerhour
+# SQL Practice Tracker
 
-Daily SQL practice is organized in root-level folders named
-`yyyy-MM-dd`. Each folder contains six `.sql.md` task templates.
+This repository is for documenting my daily SQL practice. Each day I solve a
+few SQL questions, write down what I completed, and keep a simple record of my
+learning.
 
-## Create today's practice folder
+## Summary
 
-Run this from the repository root in PowerShell:
-
-```powershell
-.\DailySqlWorkFlow\Create-DailySqlPractice.ps1
-```
-
-The script creates today's folder locally and does not run Git commands,
-commit, or push. It stops rather than overwrite a folder that already exists.
-
-To run it daily with Windows Task Scheduler, use this as the program:
-
-```text
-powershell.exe
-```
-
-And these as the arguments, replacing the path with your local repository path:
-
-```text
--NoProfile -ExecutionPolicy Bypass -File "C:\path\to\SQL-Powerhour\DailySqlWorkFlow\Create-DailySqlPractice.ps1" -RepoPath "C:\path\to\SQL-Powerhour"
-```
-
-The workflow script is local-only and ignored by Git. To push a practice folder,
-stage only that day's folder and push it yourself:
-
-```powershell
-git add .\2026-10-14\
-git commit -m "Add SQL practice for 2026-10-14" -- .\2026-10-14\
-git push
-```
-
-Replace the example date with the folder's date. Do not use `git add .` if you
-want to ensure unrelated files are not included. The path-limited commit keeps
-other staged changes out of that commit.
+| Name | Challenge | Solution | Date | Difficulty | Status |
+|---|---|---|---|---|---|
+| Weather Observation Station 5 | [HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution](2026-10-13/01-Weather%20Observation%20Station%205.sql.md) | 2026-10-13 | Easy | Completed |
+| Weather Observation Station 6 | [HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution](2026-10-13/02-Weather%20Observation%20Station%206.sql.md) | 2026-10-13 | Medium | Completed |
+| New Companies | [HackerRank](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | [Solution](2026-10-13/03-New%20Companies.sql.md) | 2026-10-13 | Medium | Completed |
+| Weather Observation Station 1 | [HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](2026-10-13/04-Weather%20Observation%20Station%201.sql.md) | 2026-10-13 | Easy | Completed |
+| Japanese Cities' Names | [HackerRank](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution](2026-10-13/05-Weather%20Observation%20Station%201.sql.md) | 2026-10-13 | Easy | Completed |
+| Weather Observation Station 3 | [HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](2026-10-14/01-Weather%20Observation%20Station%203.sql.md) | 2026-10-14 | Easy | Completed |
+| Weather Observation Station 4 | [HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](2026-10-14/02-Weather%20Observation%20Station%204.sql.md) | 2026-10-14 | Easy | Completed |
+| Occupations | [HackerRank](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | [Solution](2026-10-14/03-Occupations.sql.md) | 2026-10-14 | Medium | Completed |
