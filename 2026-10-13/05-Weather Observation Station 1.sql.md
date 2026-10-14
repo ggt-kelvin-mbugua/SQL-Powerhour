@@ -1,4 +1,4 @@
-﻿# SQL Practice â€” Task 05
+﻿# SQL Practice” Task 05
 
 - **Date:** 2026-10-13
 - **Question Name:** Weather Observation Station 1

@@ -8,7 +8,7 @@
 # Intuition
 Identify the cities with the shortest and longest lenghth
 using a simple order by using the length of the city name and arranging it in descending order for longest name and ascending order for the shortest name.
-Where we have a tie in the name lengh arrange the name in alpahabetical order(ascending order)
+Where we have a tie in the name length arrange the name in alpahabetical order(ascending order)
 when we have two with same length and in the same alpahabetical order limit the result to 1
 
 

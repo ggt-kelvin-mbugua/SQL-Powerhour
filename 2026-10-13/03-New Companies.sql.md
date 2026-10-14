@@ -1,4 +1,4 @@
-﻿# SQL Practice â€” Task 03
+﻿# SQL Practice ” Task 03
 
 - **Date:** 2026-10-13
 - **Question Name:** New Companies
