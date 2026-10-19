@@ -24,3 +24,13 @@ learning.
 | African Cities | [HackerRank](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [Solution](2026-10-16/01-African%20Cities.sql.md) | 2026-10-16 | Easy | Completed |
 | Average Population of Each Continent | [HackerRank](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [Solution](2026-10-16/02-Average%20Population%20of%20Each%20Continent.sql.md) | 2026-10-16 | Medium | Completed |
 | The Report | [HackerRank](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true) | [Solution](2026-10-16/03-The%20Report.sql.md) | 2026-10-16 | Medium | Completed |
+
+## 2026-10-19
+
+- [Type of Triangle](2026-10-19/01-Type%20of%20Triangle.sql.md)
+- [Revising Aggregations - The Sum Function](2026-10-19/02-Revising%20Aggregations%20-%20The%20Sum%20Function.sql.md)
+- [Revising Aggregations - The Count Function](2026-10-19/03-Revising%20Aggregations%20-%20The%20Count%20Function.sql.md)
+- [Revising Aggregations - The Average Function](2026-10-19/04-Revising%20Aggregations%20-%20The%20Average%20Function.sql.md)
+- [Weather Observation Station 18](2026-10-19/05-Weather%20Observation%20Station%2018.sql.md)
+- [Weather Observation Station 19](2026-10-19/06-Weather%20Observation%20Station%2019.sql.md)
+- [The Pads](2026-10-19/07-The_Pads.sql.md)
