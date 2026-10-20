@@ -34,3 +34,12 @@ learning.
 - [Weather Observation Station 18](2026-10-19/05-Weather%20Observation%20Station%2018.sql.md)
 - [Weather Observation Station 19](2026-10-19/06-Weather%20Observation%20Station%2019.sql.md)
 - [The Pads](2026-10-19/07-The_Pads.sql.md)
+
+## 2026-10-20
+
+- [Weather Observation Station 13](2026-10-20/01-Weather%20Observation%20Station%2013.sql.md)
+- [Weather Observation Station 14](2026-10-20/02-Weather%20Observation%20Station%2014.sql.md)
+- [Weather Observation Station 15](2026-10-20/03-Weather%20Observation%20Station%2015.sql.md)
+- [Weather Observation Station 16](2026-10-20/04-Weather%20Observation%20Station%2016.sql.md)
+- [Weather Observation Station 20](2026-10-20/05-Weather%20Observation%20Station%2020.sql.md)
+- [Top Competitors](2026-10-20/06-Top%20Competitors.sql.md)
