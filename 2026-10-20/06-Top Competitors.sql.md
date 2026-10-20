@@ -6,8 +6,8 @@
 - **Difficulty:** Medium
 
 # Intuition
-Use WITH clause to get a subset result and query from the result to get the solution
-Use ROW_NUMBER OVER to group the first query in order
+Use JOIN to combine the tables together
+Use DISTINCT to get the distinct challenges completed
 
 
 ## Solution
