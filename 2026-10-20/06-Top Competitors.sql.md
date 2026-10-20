@@ -13,13 +13,42 @@ Use ROW_NUMBER OVER to group the first query in order
 ## Solution
 
 ```sql
-WITH Median AS (
-    SELECT LAT_N,
-    ROW_NUMBER() OVER(ORDER BY LAT_N) AS rn,
-    COUNT(*) OVER() AS Total
-    FROM STATION)
-SELECT ROUND(LAT_N,4) AS Median
-FROM Median
-WHERE rn=(total+1)/2
+failed solution
+-- Output- hacker_id,name of the hacker-achived full scores for more than one challenge
+-- Order in DESC by total  number of challenges earned full scores, else order by hacker id ASC;
+
+    SELECT
+    h.hacker_id,
+    h.name
+    FROM Hackers h
+    JOIN Submissions s
+    ON h.hacker_id=s.hacker_id
+    JOIN Challenges c
+    ON s.challenge_id= c.challenge_id
+    JOIN Difficulty d
+    ON c.difficulty_level=d.difficulty_level
+    WHERE s.score=d.score
+    AND s.challenge_id >1
+    ORDER BY s.challenge_id DESC, h.hacker_id ASC;
+
+```
+
+```sql
+Revised Solution
+SELECT
+    h.hacker_id,
+    h.name
+FROM Hackers h
+JOIN Submissions s
+    ON h.hacker_id = s.hacker_id
+JOIN Challenges c
+    ON s.challenge_id = c.challenge_id
+JOIN Difficulty d
+    ON c.difficulty_level = d.difficulty_level
+WHERE s.score = d.score
+GROUP BY h.hacker_id, h.name
+HAVING COUNT(DISTINCT s.challenge_id) > 1
+ORDER BY COUNT(DISTINCT s.challenge_id) DESC,
+         h.hacker_id ASC;
 
 ```
