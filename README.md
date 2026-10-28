@@ -42,3 +42,5 @@ challenge, the SQL query, and notes about the approach.
 | Binary Tree Nodes | [HackerRank](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [Solution](2026-10-23/01-Binary%20Tree%20Nodes.sql.md) | 2026-10-23 | Medium | Completed |
 | Revising the Select Query I | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](2026-10-23/02-Revising%20the%20Select%20Query%20I.sql.md) | 2026-10-23 | Easy | Completed |
 | Revising the Select Query II | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](2026-10-23/03-Revising%20the%20Select%20Query%20II.sql.md) | 2026-10-23 | Easy | Completed |
+| Challenges | [HackerRank](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) | [Solution](2026-10-28/Challenges.sql.md) | 2026-10-28 | Medium | Completed |
+| Contest Leaderboard | [HackerRank](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) | [Solution](2026-10-28/Contest%20Leaderboard.sql.md) | 2026-10-28 | Medium | Completed |
