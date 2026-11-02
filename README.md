@@ -44,3 +44,6 @@ challenge, the SQL query, and notes about the approach.
 | Revising the Select Query II | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](2026-10-23/03-Revising%20the%20Select%20Query%20II.sql.md) | 2026-10-23 | Easy | Completed |
 | Challenges | [HackerRank](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) | [Solution](2026-10-28/Challenges.sql.md) | 2026-10-28 | Medium | Completed |
 | Contest Leaderboard | [HackerRank](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) | [Solution](2026-10-28/Contest%20Leaderboard.sql.md) | 2026-10-28 | Medium | Completed |
+| LinkedIn SQL Interview Question | [DataLemur](https://datalemur.com/questions/matching-skills) | [Solution](2026-11-2/1-LinkedIn%20Sql%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
+| Tesla SQL Interview Question | [DataLemur](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](2026-11-2/2-Tesla%20SQL%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
+| Facebook SQL Interview Question | [DataLemur](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](2026-11-2/3-Facebook%20SQL%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
