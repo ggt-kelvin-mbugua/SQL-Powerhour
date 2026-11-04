@@ -47,3 +47,6 @@ challenge, the SQL query, and notes about the approach.
 | LinkedIn SQL Interview Question | [DataLemur](https://datalemur.com/questions/matching-skills) | [Solution](2026-11-2/1-LinkedIn%20Sql%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
 | Tesla SQL Interview Question | [DataLemur](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](2026-11-2/2-Tesla%20SQL%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
 | Facebook SQL Interview Question | [DataLemur](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](2026-11-2/3-Facebook%20SQL%20Interview%20Question.sql.md) | 2026-11-02 | Easy | Completed |
+| Laptop vs. Mobile Viewership | [DataLemur](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](2026-11-04/1-Laptop%20vs%20Mobile%20Viewership.sql.md) | 2026-11-04 | Easy | Completed |
+| Average Post Hiatus (Part 1) | [DataLemur](https://datalemur.com/questions/average-post-hiatus-1) | [Solution](2026-11-04/2-Average%20Post%20Hiatus%20(Part%201).sql.md) | 2026-11-04 | Easy | Completed |
+| Teams Power Users | [DataLemur](https://datalemur.com/questions/teams-power-users) | [Solution](2026-11-04/3-Teams%20Power%20Users.sql.md) | 2026-11-04 | Medium | Completed |
