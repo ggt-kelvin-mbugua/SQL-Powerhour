@@ -50,3 +50,8 @@ challenge, the SQL query, and notes about the approach.
 | Laptop vs. Mobile Viewership | [DataLemur](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](2026-11-04/1-Laptop%20vs%20Mobile%20Viewership.sql.md) | 2026-11-04 | Easy | Completed |
 | Average Post Hiatus (Part 1) | [DataLemur](https://datalemur.com/questions/average-post-hiatus-1) | [Solution](2026-11-04/2-Average%20Post%20Hiatus%20(Part%201).sql.md) | 2026-11-04 | Easy | Completed |
 | Teams Power Users | [DataLemur](https://datalemur.com/questions/teams-power-users) | [Solution](2026-11-04/3-Teams%20Power%20Users.sql.md) | 2026-11-04 | Medium | Completed |
+| Final Account Balance | [DataLemur](https://datalemur.com/questions/final-account-balance) | [Solution](2026-11-05/01-Final%20Account%20Balance.sql.md) | 2026-11-05 | Easy | Completed |
+| Well Paid Employees | [DataLemur](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](2026-11-05/02-Well%20Paid%20Employees.sql.md) | 2026-11-05 | Easy | Completed |
+| Average Review Ratings | [DataLemur](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](2026-11-05/03-Average%20Review%20Ratings.sql.md) | 2026-11-05 | Easy | Completed |
+| Cities With Completed Trades | [DataLemur](https://datalemur.com/questions/completed-trades) | [Solution](2026-11-05/03-Cities%20With%20Complted%20Trades.sql.md) | 2026-11-05 | Easy | Completed |
+| Duplicate Job Listings | [DataLemur](https://datalemur.com/questions/duplicate-job-listings) | [Solution](2026-11-05/05-Duplicate%20Job%20Listings.sql.md) | 2026-11-05 | Easy | Completed |
