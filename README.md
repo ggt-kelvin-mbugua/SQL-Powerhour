@@ -55,3 +55,12 @@ challenge, the SQL query, and notes about the approach.
 | Average Review Ratings | [DataLemur](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](2026-11-05/03-Average%20Review%20Ratings.sql.md) | 2026-11-05 | Easy | Completed |
 | Cities With Completed Trades | [DataLemur](https://datalemur.com/questions/completed-trades) | [Solution](2026-11-05/03-Cities%20With%20Complted%20Trades.sql.md) | 2026-11-05 | Easy | Completed |
 | Duplicate Job Listings | [DataLemur](https://datalemur.com/questions/duplicate-job-listings) | [Solution](2026-11-05/05-Duplicate%20Job%20Listings.sql.md) | 2026-11-05 | Easy | Completed |
+| Second Day Confirmation | [DataLemur](https://datalemur.com/questions/second-day-confirmation) | [Solution](2026-11-06/1-Second%20Day%20Confirmation.sql.md) | 2026-11-06 | Easy | Completed |
+| IBM DB2 Product Analytics | [DataLemur](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](2026-11-06/2-IBM%20db2%20Product%20Analytics.sql.md) | 2026-11-06 | Easy | Completed |
+| Cards Issued Difference | [DataLemur](https://datalemur.com/questions/cards-issued-difference) | [Solution](2026-11-06/3-Cards%20Issued%20Difference.sql.md) | 2026-11-06 | Easy | Completed |
+| Compressed Mean | [DataLemur](https://datalemur.com/questions/sql-compressed-mean) | [Solution](2026-11-09/1-Compressed%20Mean.sql.md) | 2026-11-09 | Easy | Completed |
+| Final Account Balance | [DataLemur](https://datalemur.com/questions/final-account-balance) | [Solution](2026-11-09/2-Final%20Account%20Balance.sql.md) | 2026-11-09 | Easy | Completed |
+| Pharmacy Analytics (Part 1) | [DataLemur](https://datalemur.com/questions/top-profitable-drugs) | [Solution](2026-11-09/3-Pharmacy%20Analytics%20(Part%201).sql.md) | 2026-11-09 | Easy | Completed |
+| Pharmacy Analytics (Part 2) | [DataLemur](https://datalemur.com/questions/top-profitable-drugs) | [Solution](2026-11-09/4-Pharmacy%20Analytics%20(Part%202).sql.md) | 2026-11-09 | Easy | Completed |
+| Pharmacy Analytics (Part 3) | [DataLemur](https://datalemur.com/questions/total-drugs-sales) | [Solution](2026-11-09/5-Pharmacy%20Analytics%20(Part%203).sql.md) | 2026-11-09 | Easy | Completed |
+| Patient Support Analysis (Part 1) | [DataLemur](https://datalemur.com/questions/frequent-callers) | [Solution](2026-11-09/6-Patient%20Support%20Analysis%20(Part%201).sql.md) | 2026-11-09 | Easy | Completed |
