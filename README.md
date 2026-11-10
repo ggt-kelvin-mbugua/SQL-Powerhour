@@ -64,3 +64,7 @@ challenge, the SQL query, and notes about the approach.
 | Pharmacy Analytics (Part 2) | [DataLemur](https://datalemur.com/questions/top-profitable-drugs) | [Solution](2026-11-09/4-Pharmacy%20Analytics%20(Part%202).sql.md) | 2026-11-09 | Easy | Completed |
 | Pharmacy Analytics (Part 3) | [DataLemur](https://datalemur.com/questions/total-drugs-sales) | [Solution](2026-11-09/5-Pharmacy%20Analytics%20(Part%203).sql.md) | 2026-11-09 | Easy | Completed |
 | Patient Support Analysis (Part 1) | [DataLemur](https://datalemur.com/questions/frequent-callers) | [Solution](2026-11-09/6-Patient%20Support%20Analysis%20(Part%201).sql.md) | 2026-11-09 | Easy | Completed |
+| User's Third Transaction | [DataLemur](https://datalemur.com/questions/sql-third-transaction) | [Solution](2026-11-10/1-User's%20Third%20Transaction.sql.md) | 2026-11-10 | Medium | Completed |
+| Tweets' Rolling Averages | [DataLemur](https://datalemur.com/questions/rolling-average-tweets) | [Solution](2026-11-10/2-Tweets'%20Rolling%20Averages.sql.md) | 2026-11-10 | Medium | Completed |
+| Highest-Grossing Items | [DataLemur](https://datalemur.com/questions/sql-highest-grossing) | [Solution](2026-11-10/3-Highest-Grossing%20Items.sql.md) | 2026-11-10 | Medium | Completed |
+| Top Three Salaries | [DataLemur](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](2026-11-10/4-Top%20Three%20Salaries.sql.md) | 2026-11-10 | Medium | Completed |
