@@ -68,3 +68,9 @@ challenge, the SQL query, and notes about the approach.
 | Tweets' Rolling Averages | [DataLemur](https://datalemur.com/questions/rolling-average-tweets) | [Solution](2026-11-10/2-Tweets'%20Rolling%20Averages.sql.md) | 2026-11-10 | Medium | Completed |
 | Highest-Grossing Items | [DataLemur](https://datalemur.com/questions/sql-highest-grossing) | [Solution](2026-11-10/3-Highest-Grossing%20Items.sql.md) | 2026-11-10 | Medium | Completed |
 | Top Three Salaries | [DataLemur](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](2026-11-10/4-Top%20Three%20Salaries.sql.md) | 2026-11-10 | Medium | Completed |
+| Supercloud Customer | [DataLemur](https://datalemur.com/questions/supercloud-customer) | [Solution](2026-11-11/1-Supercloud%20Customer.sql.md) | 2026-11-11 | Medium | Completed |
+| Spotify Streaming History | [DataLemur](https://datalemur.com/questions/spotify-streaming-history) | [Solution](2026-11-11/2-Spotify%20Streaming%20History.sql.md) | 2026-11-11 | Medium | Completed |
+| Sending vs. Opening Snaps | [DataLemur](https://datalemur.com/questions/time-spent-snaps) | [Solution](2026-11-11/3-Sending%20vs.%20Opening%20Snaps.sql.md) | 2026-11-11 | Medium | Completed |
+| International Call Percentage | [DataLemur](https://datalemur.com/questions/international-call-percentage) | [Solution](2026-11-12/1-International%20Call%20Percentage.sql.md) | 2026-11-12 | Medium | Completed |
+| Card Launch Success | [DataLemur](https://datalemur.com/questions/card-launch-success) | [Solution](2026-11-12/2-Card%20Launch%20Success.sql.md) | 2026-11-12 | Medium | Completed |
+| Signup Activation Rate | [DataLemur](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](2026-11-12/3-Signup%20Activation%20Rate.sql.md) | 2026-11-12 | Medium | Completed |
