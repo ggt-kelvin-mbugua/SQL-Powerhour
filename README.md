@@ -74,3 +74,5 @@ challenge, the SQL query, and notes about the approach.
 | International Call Percentage | [DataLemur](https://datalemur.com/questions/international-call-percentage) | [Solution](2026-11-12/1-International%20Call%20Percentage.sql.md) | 2026-11-12 | Medium | Completed |
 | Card Launch Success | [DataLemur](https://datalemur.com/questions/card-launch-success) | [Solution](2026-11-12/2-Card%20Launch%20Success.sql.md) | 2026-11-12 | Medium | Completed |
 | Signup Activation Rate | [DataLemur](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](2026-11-12/3-Signup%20Activation%20Rate.sql.md) | 2026-11-12 | Medium | Completed |
+| Best-Selling Product | [DataLemur](https://datalemur.com/questions/best-selling-products) | [Solution](2026-11-16/1-Best-Selling%20Product.sql.md) | 2026-11-16 | Medium | Completed |
+| User Shopping Sprees | [DataLemur](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](2026-11-16/2-User%20Shopping%20Sprees.sql.md) | 2026-11-16 | Medium | Completed |
