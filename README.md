@@ -76,3 +76,5 @@ challenge, the SQL query, and notes about the approach.
 | Signup Activation Rate | [DataLemur](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](2026-11-12/3-Signup%20Activation%20Rate.sql.md) | 2026-11-12 | Medium | Completed |
 | Best-Selling Product | [DataLemur](https://datalemur.com/questions/best-selling-products) | [Solution](2026-11-16/1-Best-Selling%20Product.sql.md) | 2026-11-16 | Medium | Completed |
 | User Shopping Sprees | [DataLemur](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](2026-11-16/2-User%20Shopping%20Sprees.sql.md) | 2026-11-16 | Medium | Completed |
+| SQL Project Planning | [HackerRank](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) | [Solution](2026-11-17/1-SQL%20Project%20Planing.sql.md) | 2026-11-17 | Medium | Completed |
+| Placements | [HackerRank](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | [Solution](2026-11-17/2-Placements.sql.md) | 2026-11-17 | Medium | Completed |
