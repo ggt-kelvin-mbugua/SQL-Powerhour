@@ -78,3 +78,4 @@ challenge, the SQL query, and notes about the approach.
 | User Shopping Sprees | [DataLemur](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](2026-11-16/2-User%20Shopping%20Sprees.sql.md) | 2026-11-16 | Medium | Completed |
 | SQL Project Planning | [HackerRank](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) | [Solution](2026-11-17/1-SQL%20Project%20Planing.sql.md) | 2026-11-17 | Medium | Completed |
 | Placements | [HackerRank](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | [Solution](2026-11-17/2-Placements.sql.md) | 2026-11-17 | Medium | Completed |
+| Swapped Food Delivery | [DataLemur](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](2026-11-23/1-.sql.md) | 2026-11-23 | Medium | Completed |
